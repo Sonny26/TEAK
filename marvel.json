@@ -8,227 +8,380 @@
 	{
 	"name":"Blade",
 	"URL":"https://i.pinimg.com/originals/8a/a7/28/8aa7280d496893da62aeed5e9091c18d.jpg",
-	"text":"Et Mercé!"
+	"text":"Blade, de son vrai nom Eric Brooks, est un super-héros. Créé en 1973 pour Marvel Comics par le scénariste Marv Wolfman et le dessinateur Gene Colan, Blade était au début un personnage secondaire dans Tomb of Dracula dans les années 1970, et a joué un rôle principal dans plusieurs comics par la suite."
 	},
 	{
 	"name":"La Veuve Noire",
-	"URL":"https://www.journaldemickey.com/sites/default/files/dico/la-veuve-noire-avengers.jpg"
+	"URL":"https://www.journaldemickey.com/sites/default/files/dico/la-veuve-noire-avengers.jpg",
+	"text":"La Veuve noire (« Black Widow » en version originale) est le nom de deux personnages de fiction, des espionnes russes évoluant dans l'univers Marvel de la maison d'édition Marvel Comics.
+	La première (et la plus connue) Veuve noire est Natalia Romanova ou Natasha Romanoff. Créée par les artistes Stan Lee, Don Rico et Don Heck, elle est d'abord apparue comme ennemie d'Iron Man dans le comic book Tales of Suspense #52 en avril 1964, puis reconvertie en super-héroïne."
 	},
 	{
 	"name":"Bucky",
-	"URL":"https://i.pinimg.com/736x/c5/0a/cd/c50acdf12f117421340dc8e0980249ac.jpg"
+	"URL":"https://i.pinimg.com/736x/c5/0a/cd/c50acdf12f117421340dc8e0980249ac.jpg",
+	"text":"James Barnes, alias Bucky, est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Jack Kirby et le dessinateur Joe Simon, le personnage de fiction apparaît pour la première fois dans le comic book Captain America Comics #1 de Timely Comics en mars 1941.
+	Le personnage devient le Soldat de l'hiver (Winter Soldier) à partir de janvier 2005 dans Captain America (vol. 5) #1 et prend brièvement l'identité de Captain America à partir de janvier 2008 dans Captain America (vol. 5) #34, mais revient ensuite à son identité du Soldat de l'hiver, après les événements du crossover Fear Itself. "
 	},
 	{
 	"name":"Cable",
-	"URL":"https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Josh_Brolin_as_Cable.jpg/220px-Josh_Brolin_as_Cable.jpg"
+	"URL":"https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Josh_Brolin_as_Cable.jpg/220px-Josh_Brolin_as_Cable.jpg",
+	"text":" Cable, de son vrai nom Nathan Summers, est un personnage de fiction de l'univers de Marvel Comics, créé par Chris Claremont dans Uncanny X-Men #201 en 1986.
+	Il a vu son heure de gloire durant les années 1990 : Cable se retrouve rapidement à la tête des Nouveaux Mutants (les aspirants X-Men), qu'il rebaptise X-Force (X-Force #1 1991). Dès 1993, il bénéficie de sa propre série sur laquelle ont notamment officié Jeph Loeb et Ian Churchill et qui disparaît finalement en 2002, remplacée (pour des raisons de droits sur le nom de la série) par une éphémère série Soldier X par Darko Macan et Igor Kordey. Il est aujourd'hui dans la série Cable & Deadpool de Rob Liefeld. Le 12 avril 2017, Josh Brolin annonce officiellement qu'il prêtera ses traits au personnage pour quatre films."
 	},
 	{
 	"name":"Captain America",
-	"URL":"https://vignette.wikia.nocookie.net/lemondededisney/images/4/4e/CaptainAmerica_AOU_character-art-poster.jpg/revision/latest?cb=20160102200210&path-prefix=fr"
+	"URL":"https://vignette.wikia.nocookie.net/lemondededisney/images/4/4e/CaptainAmerica_AOU_character-art-poster.jpg/revision/latest?cb=20160102200210&path-prefix=fr",
+	"text":"Captain America est un super-héros de bande dessinée évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le dessinateur Jack Kirby et le scénariste Joe Simon, le personnage de fiction apparaît pour la première fois dans le comic book Captain America Comics #1 en décembre 1940n 1.
+Conçu à l'origine comme une figure patriotique américaine en réaction au régime nazi, le personnage devient actif avant même l'entrée en guerre officielle des États-Unis dans la Seconde Guerre mondiale. Dès le début de sa publication, il est perçu comme le porte-drapeau des valeurs démocratiques de son pays et comme un défenseur du monde libre contre les totalitarismes, notamment le Troisième Reich2. "
 	},
 	{
 	"name":"Captain Britain",
-	"URL":"https://www.screengeek.net/wp-content/uploads/2018/09/captain-britain.jpg"
+	"URL":"https://www.screengeek.net/wp-content/uploads/2018/09/captain-britain.jpg",
+	"text":"Brian Braddock, alias Captain Britain, est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Chris Claremont et le dessinateur Herb Trimpe, le personnage de fiction apparaît pour la première fois dans le comic book Captain Britain Weekly #1 du 13 octobre 1976.
+Ce comic a été créé spécialement pour le marché britannique, avec comme but d'avoir un équivalent à Captain America au Royaume-Uni. Le personnage est ensuite inclus dans le reste de l'univers Marvel et est rapidement apparu dans des séries publiées aux États-Unis. Au fil des années, de nombreux auteurs ont utilisé le personnage, notamment Chris Claremont, Alan Davis, Alan Moore et Jamie Delano.
+Après l'annulation de sa série, il devient le leader de l'équipe de super-héros Excalibur. Il est actuellement membre des Vengeurs Secrets, l'équipe d'espions dirigée par Œil de Faucon. "
 	},
 	{
 	"name":"Captain Marvel",
-	"URL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-6hdO-F2L-uJVySQLKqGEMZa1OLO7mdk7OOg5uwyY_ftpMfNZ"
+	"URL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-6hdO-F2L-uJVySQLKqGEMZa1OLO7mdk7OOg5uwyY_ftpMfNZ",
+	"text":"Captain Marvel est le pseudonyme de plusieurs personnages de fiction (quatre hommes et trois femmes) dont les aventures ont été publiées depuis 1967 par Marvel Comics dans plus de huit séries de comics de super-héros du même nom ainsi que quelques numéros spéciaux :
+Mar-Vell, créé par Stan Lee et Gene Colan en 1967 dans le comic Marvel Super-Heroes #12, est un capitaine de l'armée Kree venu espionner la Terre et décédé,
+
+Monica Rambeau, créée en 1982 par Roger Stern, est une femme lieutenant de la marine américaine, qui fut membre des Vengeurs et s'est fait appeler Photon, Pulsar et Spectrum,
+
+Genis-Vell, créé en 1993 par Ron Marz, aussi surnommé Legacy et Photon, est un fils de Mar-Vell, créé après sa mort à l'aide de son capital génétique et décédé,
+
+-Phyla-Vell, créée en 2003 par Peter David, est une fille de Mar-Vell, créée après sa mort à l'aide de son capital génétique. Dans la série Annihilation, elle prend le nom de Quasar,
+
+-Khn’nr, créé en 2007 par Paul Jenkins lors du crossover Civil War, est un clone Skrull du premier Captain Marvel (Mar-Vell),
+
+-Noh-Varr, créé en 2000 par Grant Morrison dans Marvel Boy n°1, avec le surnom Marvel Boy, est un Kree venu sur Terre. En 2009, pendant l'arc narratif Dark Reign (en), il a porté le nom de Captain Marvel.
+
+Carol Danvers, apparue en 1968, s'appelle Captain Marvel dans plusieurs séries publiées depuis 2012. Elle s'était appelée auparavant Miss Marvel.
+Dans l'univers Ultimate Marvel, un Ultimate Captain Marvel est apparu, il s'agit, en fait, du capitaine de l'armée Kree Mahr Vehl.
+Dans l'univers de la réalité alternative de House of M (parue en 2005), Carol Danvers (Miss Marvel) avait repris le nom Captain Marvel. "
 	},
 	{
 	"name":"La Chose",
-	"URL":"https://i.skyrock.net/1737/21551737/pics/619103637.jpg"
+	"URL":"https://i.skyrock.net/1737/21551737/pics/619103637.jpg",
+	"text":"Benjamin « Ben » Grimm, alias La Chose (« The Thing » en version originale), est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book Fantastic Four (vol. 1) #1 en novembre 1961.
+Ben Grimm est l'un des membres fondateurs de l'équipe des Quatre Fantastiques. "
 	},
 	{
 	"name":"Cyclope",
-	"URL":"https://i.skyrock.net/9240/48329240/pics/1958319903_small_1.jpg"
+	"URL":"https://i.skyrock.net/9240/48329240/pics/1958319903_small_1.jpg",
+	"text":"Scott Summers, alias Cyclope (« Cyclops » en version originale) est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book Uncanny X-Men #1 en septembre 1963.
+Cyclope est un mutant qui a fait longtemps fait partie de l’équipe de super-héros les X-Men. Il est aussi le frère de Alexander Summers, alias Havok. "
 	},
 	{
 	"name":"Daredevil",
-	"URL":"https://vignette.wikia.nocookie.net/p__/images/7/7b/IMG_6702.jpg/revision/latest?cb=20170912160050&path-prefix=protagonist"
+	"URL":"https://vignette.wikia.nocookie.net/p__/images/7/7b/IMG_6702.jpg/revision/latest?cb=20170912160050&path-prefix=protagonist",
+	"text":"Matthew « Matt » Murdock, alias Daredevila est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Bill Everett — avec l'aide de Jack Kirby et Steve Ditko, le personnage de fiction apparaît pour la première fois dans le comic book Daredevil #1 en avril 1964.
+L'expression anglaise « daredevil » — de dare (oser) et devil (diable), littéralement « tenter le Diable » —, souvent utilisée pour qualifier les acrobates ou autres cascadeurs, peut se traduire par « casse-cou » ou « trompe-la-mort. » Du reste, Daredevil est surnommé « l'homme sans peur » (The Man without fear). "
 	},
 	{
 	"name":"Deadpool",
-	"URL":"https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fbamsmackpow.com%2Ffiles%2F2017%2F12%2FDeadpool-Movie.jpg&c=sc&w=850&h=560"
+	"URL":"https://imagesvc.timeincapp.com/v3/fan/image?url=https%3A%2F%2Fbamsmackpow.com%2Ffiles%2F2017%2F12%2FDeadpool-Movie.jpg&c=sc&w=850&h=560",
+	"text":"Wade Wilson, alias Deadpool est un anti-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Fabian Nicieza et le dessinateur/scénariste Rob Liefeld, le personnage de fiction apparaît pour la première fois dans le comic book The New Mutants #98 en février 1991.
+Initialement, Deadpool était décrit comme un super-vilain lors de sa première apparition dans The New Mutants, puis plus tard dans les numéros de X-Force, mais il a ensuite évolué pour devenir un personnage antihéroique tel qu'il est connu depuis.
+Deadpool est un mercenaire défiguré doté d'une capacité surhumaine de guérison accélérée et capable de prouesses physiques. Le personnage est aussi connu sous le surnom de « Mercenaire à la grande bouche » (Merc with a Mouth) en raison de sa tendance à discuter et plaisanter constamment, notamment en cassant le quatrième mur pour causer un effet humoristique et en faisant des gags récurrents. "
 	},
 	{
 	"name":"Drax le Destructeur",
-	"URL":"http://www.marvel-cineverse.fr/medias/images/draxiw.jpg"
+	"URL":"http://www.marvel-cineverse.fr/medias/images/draxiw.jpg",
+	"text":"Arthur Douglas, alias Drax le Destructeur est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Jim Starlin et le dessinateur Mike Friedrich, le personnage de fiction apparaît pour la première fois dans le comic book Iron Man #55 en 1973. "
 	},
 	{
 	"name":"Docteur Strange",
-	"URL":"http://www.marvel-cineverse.fr/medias/images/avengers-infinity-war-doctor-strange-poster.jpg"
+	"URL":"http://www.marvel-cineverse.fr/medias/images/avengers-infinity-war-doctor-strange-poster.jpg",
+	"text":"Stephen Strange, alias Docteur Strange (« Doctor Strange » en VO) est un super-héros appartenant à l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee3 et le dessinateur Steve Ditko, le personnage de fiction apparaît pour la première fois dans le comic book Strange Tales #110 en 1963.
+Avant la première apparition du personnage de Stephen Strange, le nom de « Dr Strange » fut utilisé par un autre personnage de Marvel, deux mois avant la sortie de Strange Tales #1101.
+Le Docteur Strange est le « Maître des arts mystiques » auquel tous les autres super-héros font appel quand ils ont affaire à des adversaires utilisant des pouvoirs occultes. "
 	},
 	{
 	"name":"Elektra",
-	"URL":"https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Elektra_3.jpg/250px-Elektra_3.jpg"
+	"URL":"https://upload.wikimedia.org/wikipedia/en/thumb/a/af/Elektra_3.jpg/250px-Elektra_3.jpg",
+	"text":"Elektra, née Elektra Natchios, est un personnage de fiction évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créée par le scénariste Frank Miller (scénario et dessins), elle apparaît pour la première fois dans le comic book Daredevil #168 en janvier 1981.
+D'origine grecque et ancienne passion de jeunesse de « l'homme sans peur », Elektra entretient avec celui-ci des rapports amour-haine en raison de son penchant pour la violence et de ses activités de tueuse à gages formée par un clan ninja.
+En plus de ses apparitions signature dans Daredevil, elle apparaît dans deux séries éponymes et plusieurs mini-séries de 1984 à 1990. Une série régulière lui est consacrée en 1995, puis dans la nouvelle série, Thunderbolts (2012), de Daniel Way et Steve Dillon.
+Au cinéma, le personnage est interprétée par Jennifer Garner dans Daredevil (2003) et son spin-off Elektra (2005). À la télévision, Élodie Yung incarne le personnage pour l'univers cinématographique Marvel dans la série Daredevil (2015) puis dans la série The Defenders (2017). "
 	},
 	{
 	"name":"Faucon",
-	"URL":"http://www.marvel-cineverse.fr/medias/images/avengers-infinity-war-black-panther-poster.jpg"
+	"URL":"http://www.marvel-cineverse.fr/medias/images/avengers-infinity-war-black-panther-poster.jpg",
+	"text":"Samuel « Sam » Wilson, alias Le Faucon (Falcon en VO) est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Gene Colan, le personnage de fiction apparaît pour la première fois dans le comic book Captain America #117 en septembre 1969.
+Le personnage est le premier super-héros afro-américain de l'histoire des comics grand-publics. Il devance ainsi Luke Cage de trois ans et Tornade (la première héroïne noire) de six ans1. Il est également le premier super-héros d’origine africaine n’ayant pas le mot « noir » dans son nom de super-héros, précédant ainsi John Stewart (Green Lantern) de DC Comics de plus de deux ans. "
 	},
 	{
 	"name":"Gamora",
-	"URL":"http://img.actucine.com/wp-content/uploads/2018/10/Gamora-700x393.jpg"
+	"URL":"http://img.actucine.com/wp-content/uploads/2018/10/Gamora-700x393.jpg",
+	"text":"Gamora est une super-héroïne extraterrestre appartenant à l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste et dessinateur Jim Starlin, le personnage de fiction apparaît pour la première fois dans le comic book Strange Tales #180 de 1975.
+Gamora a principalement des aventures cosmiques et voyage dans tout l'univers. Elle est connue pour être la fille adoptive de Thanos et la femme la plus dangereuse de l'univers. Elle a eu des aventures amoureuses avec les super-héros Adam Warlock et Nova / Richard Rider. "
 	},
 	{
 	"name":"Le Fauve",
-	"URL":"http://1.bp.blogspot.com/_ZH49orvYrMc/TBttw-Is_XI/AAAAAAAABq0/QYIy5x8htrc/s1600/le+fauve+x+men.jpg"
+	"URL":"http://1.bp.blogspot.com/_ZH49orvYrMc/TBttw-Is_XI/AAAAAAAABq0/QYIy5x8htrc/s1600/le+fauve+x+men.jpg",
+	"text":"Henry « Hank » McCoy, alias le Fauve (« The Beast » en version originale), est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book X-Men #1 en septembre 1963.
+Le Fauve est un mutant, membre des X-Men et des Vengeurs. "
 	},
 	{
 	"name":"La Femme Invisible",
-	"URL":"http://fr.web.img5.acsta.net/r_1280_720/newsv7/14/09/26/15/54/5941900.jpg"
+	"URL":"http://fr.web.img5.acsta.net/r_1280_720/newsv7/14/09/26/15/54/5941900.jpg",
+	"text":"Jane Storm (Susan « Sue » Storm en VO)a, alias L'Invisible puis la Femme Invisible (« Invisible Girl » puis « Invisible Woman ») est une super-héroïne évoluant dans l’univers Marvel de la maison d'édition Marvel Comics.
+Créée par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparait pour la première fois dans le comic book The Fantastic Four (vol. 1) #1 en novembre 1961.
+Membre fondateur des Quatre Fantastiques, elle a pris le nom d’épouse Jane Storm-Richards (Susan Storm-Richards en VO) après son mariage avec Red Richards, alias Mr Fantastique. "
 	},
 	{
 	"name":"Flèche noire",
-	"URL":"http://ekladata.com/Yn_fv4_RYMXfbw4yckQH-TYrk_U.png"
+	"URL":"http://ekladata.com/Yn_fv4_RYMXfbw4yckQH-TYrk_U.png",
+	"text":"Blackagar Boltagon, alias Flèche Noire (« Black Bolt » en VO) est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book Fantastic Four #45 en décembre 1965.
+Flèche Noire fait partie de la famille royale de la race des Inhumains, dont il en est le souverain.
+Le personnage est notamment caractérisé par sa voix, singulière, qui possède une capacité d'électronisation liée au centre de la parole de son cerveau. Le fait de parler déclenche chez lui une perturbation massive, sous la forme d'une onde de choc très puissante et destructrice, capable de raser une ville. En raison du danger extrême posé par ce pouvoir, Flèche Noire a suivi un entraînement mental rigoureux pour s'empêcher de faire entendre le moindre son, même dans son sommeil. Il reste généralement complètement silencieux, s'exprimant grâce au langage des signes ou via un porte-parole. "
 	},
 	{
 	"name":"Gambit",
-	"URL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdx0c8sS9hQU5RbWxJRTi8L0894KiShKxJOOJBqke19UNQuF3T"
+	"URL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdx0c8sS9hQU5RbWxJRTi8L0894KiShKxJOOJBqke19UNQuF3T",
+	"text":"Remy LeBeau, alias Gambit, est un personnage de fiction évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Chris Claremont et le dessinateur Jim Lee, le personnage apparaît pour la première fois dans les comic books Uncanny X-Men Annual #14 en juillet 1990 et Uncanny X-Men #266 en août 1990.
+Gambit est un mutant, et a fait partie de l'équipe des X-Men. "
 	},
 	{
 	"name":"Ghost Rider",
-	"URL":"https://vignette.wikia.nocookie.net/vsbattles/images/7/77/Johnathon_Blaze_%28Earth-12131%29_001.png/revision/latest?cb=20180711205733"
+	"URL":"https://vignette.wikia.nocookie.net/vsbattles/images/7/77/Johnathon_Blaze_%28Earth-12131%29_001.png/revision/latest?cb=20180711205733",
+	"text":"Ghost Rider est un super-héros évoluant dans l'univers Marvel de la maison d’édition Marvel Comics. Créé par les scénaristes Roy Thomas et Gary Friedrich, et le dessinateur Mike Ploog, le personnage de fiction apparaît pour la première fois sous sa forme actuelle dans le comic book Marvel Spotlight #5 en 1972.
+Le nom « Ghost Rider » est à l'origine utilisé par un autre personnage de Marvel Comics, qui sera renommé par la suite Phantom Rider (en).
+En France, l'origine de Ghost Rider est publiée dans Strange Spécial Origines no 235 et dans Étranges Aventures no 40. Dans les éditions françaises, le nom du personnage était traduit, selon les éditeurs, par Le Motard Fantôme ou Le Cavalier Fantôme. "
 	},
 	{
 	"name":"Groot",
-	"URL":"https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/6/6f/Groot_AIW_Profile.jpg/revision/latest?cb=20180518212915"
+	"URL":"https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/6/6f/Groot_AIW_Profile.jpg/revision/latest?cb=20180518212915",
+	"text":"Groot est un personnage de fiction appartenant à l'univers de Marvel Comics. Créé par le scénariste Stan Lee, le dessinateur Jack Kirby et l'encreur Dick Ayers, il apparaît pour la première fois dans le comic book Tales to Astonish vol.1 #13 de novembre 1960. Dans l'histoire de la bande dessinée américaine, sa création date de l'âge d'argent des comics. Lors de ses premières apparitions, Groot est un monstre extraterrestre végétal qui sévit sur Terre. Par la suite, il est forcé de faire partie de l'unité paranormale du SHIELD et devient membre des Howling Commandos. Groot arrive à retourner dans l'espace où il est recruté dans le commando de Star-Lord. Enfin, il devient un des Gardiens de la Galaxie . L'extraterrestre agit désormais au sein de cette équipe en tant que super-héros, protecteur de l'univers. "
 	},
 	{
 	"name":"Hercule",
-	"URL":"https://vignette.wikia.nocookie.net/marveldatabase/images/b/bf/Hercules_%28Earth-12131%29_001.png/revision/latest?cb=20130414041933"
+	"URL":"https://vignette.wikia.nocookie.net/marveldatabase/images/b/bf/Hercules_%28Earth-12131%29_001.png/revision/latest?cb=20130414041933",
+	"text":"Hercule est un dieu et un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book Journey into Mystery Annual #1 en 1965.
+Le personnage est inspiré de l'Héraclès de la mythologie grecque, fils de Zeus, mais est plus connu par son nom romain Hercule ; présenté dans les comics comme un personnage identique à la figure mythologique de la Grèce antique, ses auteurs prennent cependant des libertés avec les aventures qui lui sont habituellement prêtées. Bon vivant, gaffeur et dragueur, parfois irascible, Hercule est aussi un bon compagnon d'aventure. "
 	},
 	{
 	"name":"Hulk",
-	"URL":"https://ae01.alicdn.com/kf/HTB1CblMOXXXXXX2XXXXq6xXFXXXp/Personnalis-Toile-Art-Vengeur-Affiche-Marvel-Papier-Peint-Hulk-Stickers-Muraux-Anime-Bande-Dessin-e-Autocollant.jpg_640x640.jpg"
+	"URL":"https://ae01.alicdn.com/kf/HTB1CblMOXXXXXX2XXXXq6xXFXXXp/Personnalis-Toile-Art-Vengeur-Affiche-Marvel-Papier-Peint-Hulk-Stickers-Muraux-Anime-Bande-Dessin-e-Autocollant.jpg_640x640.jpg",
+	"text":"Robert Bruce Banner, alias Hulk, est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book The Incredible Hulk (vol.1) #1 en mai 1962.
+En France, il apparaît pour la première fois dans Fantask no 5 (juin 1969) (qui publie Fantastic Four #12), puis dans ses propres aventures à partir du no 23 d’Étranges Aventures (novembre 1971). Ses toutes premières aventures en solo furent traduites dans Gamma no 1 (1979).
+Hulk, surnommé le « Titan Vert », est devenu l'un des superhéros les plus forts et les plus résistants de l'univers Marvel à la suite d'une exposition accidentelle de Banner aux rayons gamma lors d'une explosion atomique.
+Dans le classement de 2008 du magazine Wizard, Hulk est classé au dix-neuvième rang des « 200 Greatest Comic Book Characters of All Time » "
 	},
 	{
 	"name":"Iceberg",
-	"URL":"https://i.pinimg.com/originals/53/2d/58/532d584ab9115816f8bfc9bc0d0798d4.jpg"
+	"URL":"https://i.pinimg.com/originals/53/2d/58/532d584ab9115816f8bfc9bc0d0798d4.jpg",
+	"text":"Robert « Bobby » Drake, alias Iceberg (« Iceman » en version originale), est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book X-Men (vol. 1) #1 en septembre 1963.
+Bobby Drake est un mutant et l'un des membres fondateurs des X-Men. Il est considéré comme un mutant de niveau Oméga. "
 	},
 	{
 	"name":"Iron man",
-	"URL":"https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/39/AoU_Iron_Man_Mk43_art.png/revision/latest?cb=20150310052243"
+	"URL":"https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/3/39/AoU_Iron_Man_Mk43_art.png/revision/latest?cb=20150310052243",
+	"text":"Anthony « Tony » Stark, alias Iron Man (litt. « l'Homme de fer ») est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee, développé par Larry Lieber et conçu par les artistes Don Heck et Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book Tales of Suspense (vol. 1) #39 en mars 1963, scénarisé par Larry Lieber et dessiné par Don Heck.
+À partir de 1968, le personnage a son propre comic, The Invincible Iron Man, publié par Marvel jusqu'en 1996 avec le no 332.
+Au début de sa carrière de super-héros, Tony Stark avait pour principale occupation de lutter contre les communistes dans le contexte de la guerre froide, de manière beaucoup plus systématique que les autres personnages de Marvel Comics. Ce cadre historique a progressivement disparu, au profit d'aventures de science-fiction. Le contexte de la série Iron Man a ensuite continué d'évoluer avec les années, le personnage affrontant en majorité des menaces de type technologique.
+Le corps d'Iron Man est celui d'un homme normal, sans pouvoir surnaturel ou surhumain, mais rendu surpuissant par une armure de haute technologie conçue à l'aide des impressionnantes compétences scientifiques de Stark. L'armure, pouvant voler jusqu'à atteindre Mach 8, confère à Tony Stark une force et une résistance surhumaine et est équipée de multiples armes, capteurs et systèmes électroniques. "
 	},
 	{
 	"name":"Iron Fist",
-	"URL":"http://cdn02.showbizz.net/wp-content/uploads/2017/03/ironfist-500x500-1489678103.jpg"
+	"URL":"http://cdn02.showbizz.net/wp-content/uploads/2017/03/ironfist-500x500-1489678103.jpg",
+	"text":"Daniel « Danny » Rand, alias Iron Fist (littéralement « Poing de fer »), est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Roy Thomas et le dessinateur Gil Kane, le personnage de fiction apparaît pour la première fois dans le comic book Marvel Premiere #15 en mai 1974.
+Iron Fist est un spécialiste des arts martiaux. Son créateur Roy Thomas s'est inspiré des films de Bruce Lee et du nom d'Iron Man pour plaire à Stan Lee2.
+Dans la série animée Ultimate Spider-Man, dont il est un personnage récurrent, son nom est traduit en « Poing d'acier ». "
 	},
 	{
 	"name":"Jean Grey / Phénix",
-	"URL":"http://www.marvel-world.com/contents/encyclopedie/biographies/g/grey-jean/grey-jean_8.jpg"
+	"URL":"http://www.marvel-world.com/contents/encyclopedie/biographies/g/grey-jean/grey-jean_8.jpg",
+	"text":"Jean Grey est une super-héroïne évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book X-Men #1 en septembre 1963.
+Le personnage a tout d’abord utilisé l’alter ego de Strange Girla (« Marvel Girl » en version originale) avant de changer son alias en Phénix (Phoenix) quand la Force Phénix a modifié ses pouvoirs.
+Elle fut membre des X-Men avant de se retourner contre eux sous le nom de Phénix noir. Jean Grey est une mutante, née avec des capacités de télépathie et de télékinésie. "
 	},
 	{
 	"name":"Jessica Jones",
-	"URL":"https://vignette.wikia.nocookie.net/marveldatabase/images/c/c7/Jessica_Jones_%28Earth-12131%29.png/revision/latest?cb=20151120185259"
+	"URL":"https://vignette.wikia.nocookie.net/marveldatabase/images/c/c7/Jessica_Jones_%28Earth-12131%29.png/revision/latest?cb=20151120185259",
+	"text":"Jessica Jones est un personnage de fiction de l'univers Marvel créé en 2001 par Brian Michael Bendis et Michael Gaydos. C'est une ancienne super-héroïne. Elle est connue sous d'autres pseudonymes, comme Jewel ou Knightress.
+Apparue dans la série Alias, Jessica est d'abord dépeinte comme une ancienne super-héroïne vaincue par la vie, mais on la voit par la suite se reconstituer et vaincre ses démons. Dorénavant elle occupe une place de plus en plus présente dans l'univers Marvel. "
 	},
 	{
 	"name":"Luke Cage",
-	"URL":"https://i.pinimg.com/originals/0b/51/ea/0b51ead57a33fffea99382cb471223f9.jpg"
+	"URL":"https://i.pinimg.com/originals/0b/51/ea/0b51ead57a33fffea99382cb471223f9.jpg",
+	"text":"Luke Cage (né Carl Lucas), alias Power Man, est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Archie Goodwin et le dessinateur John Romita, Sr., le personnage de fiction apparait pour la première fois dans le comic book Luke Cage, Hero for Hire #1 (traduction littérale, « Luke Cage, Héros à louer ») en juin 1972.
+En France, la série est publiée chez Arédit/Artima à partir de juin 1975 dans L'Inattendu n°1 (en commençant par Luke Cage, Hero for Hire #2), puis dans les albums Power Man dans les années 1980. Seuls 69 épisodes ont été traduits en français.
+Luke Cage est le premier personnage afro-américain à obtenir sa propre série. "
 	},
 	{
 	"name":"Malicia",
-	"URL":"https://vignette.wikia.nocookie.net/marvel/images/2/26/Anna-Paquin-Malicia-dans-X-Men.jpg/revision/latest?cb=20130115162832&path-prefix=fr"
+	"URL":"https://vignette.wikia.nocookie.net/marvel/images/2/26/Anna-Paquin-Malicia-dans-X-Men.jpg/revision/latest?cb=20130115162832&path-prefix=fr",
+	"text":"Anna Marie, alias Malicia (« Rogue » en version originale) est une super-héroïne évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créée par le scénariste Chris Claremont et le dessinateur Michael Golden, le personnage de fiction apparaît pour la première fois dans le comic book The Avengers Annual #10 en 1981.
+Malicia est une mutante qui peut absorber l'énergie vitale, la mémoire et les connaissances d'une personne lors d'un contact physique, laissant la victime dans un état qui va du simple étourdissement au coma profond, voire la mort. Sur une personne dotée de super-pouvoirs, elle acquiert (et même soustrait) les capacités de sa victime. Le transfert (mémoriel ou autre) peut être temporaire, voire définitif. "
 	},
 	{
 	"name":"Miss Hulk",
-	"URL":"http://www.marvel-world.com/contents/encyclopedie/biographies/m/miss-hulk-walters/miss-hulk-walters_0.jpg"
+	"URL":"http://www.marvel-world.com/contents/encyclopedie/biographies/m/miss-hulk-walters/miss-hulk-walters_0.jpg",
+	"text":"Jennifer Walters, alias Miss Hulk (« She-Hulk » en version originale), est une super-héroïne évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créée par le scénariste Stan Lee et le dessinateur John Buscema, le personnage de fiction apparaît pour la première fois dans le comic book Savage She-Hulk #1 en février 1980. "
 	},
 	{
 	"name":"Mr Fantastique",
-	"URL":"https://vignette.wikia.nocookie.net/avengersalliance/images/7/72/Mr._Fantastic_Marvel_XP.png/revision/latest?cb=20120605101815"
+	"URL":"https://vignette.wikia.nocookie.net/avengersalliance/images/7/72/Mr._Fantastic_Marvel_XP.png/revision/latest?cb=20120605101815",
+	"text":"Red Richards (« Reed Richards » en VO), alias Mr Fantastique (« Mr. Fantastic »), est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book Fantastic Four (vol. 1) #1 en novembre 1961.
+Red Richards est l'un des membres fondateurs des Quatre Fantastiques et le mari de Jane Storm (la Femme invisible). "
 	},
 	{
 	"name":"Moon Knight",
-	"URL":"https://dkemhji6i1k0x.cloudfront.net/000_clients/217758/page/217758OVnTfYzT.jpg"
+	"URL":"https://dkemhji6i1k0x.cloudfront.net/000_clients/217758/page/217758OVnTfYzT.jpg",
+	"text":"Marc Spector, alias Moon Knight (« le Chevalier de la Lune » en VF1) est un super-héros évoluant dans l'univers Marvel de la maison d’édition Marvel Comics. Créé par le scénariste Doug Moench et le dessinateur Don Perlin, le personnage de fiction apparaît dans le comic book Werewolf by Night #32 en août 1975, un crossover dans lequel se trouve aussi le personnage de Jack Russel.
+Moon Knight est un des nombreux super-héros fortement inspirés par le personnage de Batman de DC Comics. "
 	},
 	{
 	"name":"Namor",
-	"URL":"https://i.pinimg.com/originals/88/01/21/880121035d15e0756051cf9a819fdcd8.jpg"
+	"URL":"https://i.pinimg.com/originals/88/01/21/880121035d15e0756051cf9a819fdcd8.jpg",
+	"text":"Namor le Prince des mers (« Namor the Sub-Mariner ») est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le dessinateur et scénariste Bill Everett, le personnage de fiction apparaît pour la première fois dans le comic book Motion Picture Funnies Weekly en avril 1939.
+Namor est devenu l'ennemi puis l'ami des Quatre Fantastiques. Il tombera amoureux de la Femme Invisible et n'aura de cesse d'essayer de la séduire. Il est aussi devenu un membre des Vengeurs et des X-men. "
 	},
 	{
 	"name":"Nick Fury",
-	"URL":"http://www.marvel-cineverse.fr/medias/images/nickfuryprofil.jpg"
+	"URL":"http://www.marvel-cineverse.fr/medias/images/nickfuryprofil.jpg",
+	"text":"Nicholas Fury, dit Nick Fury est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book Sgt. Fury and his Howling Commandos #1 en mai 1963.
+À l'origine, Nick Fury est le chef d'un commando de la Seconde Guerre mondiale composé de Dum Dum Dugan et d'autres soldats.
+Parallèlement à ces aventures guerrières, une autre bande dessinée lui est, plus tard, en partie consacrée. Il s'agit de Strange Tales qu'il partage avec le Docteur Strange à partir du numéro 135 en août 1965 (publié en France à partir de 1973 dans Vengeur, chez Arédit/Artima) et qui le montre, plusieurs années après la guerre avec le grade de colonel, diriger le S.H.I.E.L.D., une agence américaine ultra-secrète. Il fait par la suite de fréquentes apparitions dans les autres séries Marvel en tant que directeur du S.H.I.E.L.D., faisant office de lien entre les super-héros et le gouvernement.
+Interprété au cinéma notamment par Samuel L. Jackson, son apparence physique fait alors référence à la version Ultimate du personnage où celui-ci a les traits de l'acteur. Dans le comic book original, le personnage est un homme blanc. "
 	},
 	{
 	"name":"Nova",
-	"URL":"https://i.pinimg.com/originals/0a/d2/99/0ad2999ccca9d006ac827b412c274016.png"
+	"URL":"https://i.pinimg.com/originals/0a/d2/99/0ad2999ccca9d006ac827b412c274016.png",
+	"text":"Richard Rider, alias Nova est un super-héros évoluant dans à l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Marv Wolfman et le dessinateur John Buscema, le personnage de fiction apparaît pour la première fois dans le comic book Nova #1 en septembre 1976.
+Marvel a publié quatre séries intitulées Nova centrées sur ce personnage ; la première dura 25 numéros à partir de septembre 1976 et la dernière a commencé en avril 2007. En 2013, la cinquième série Nova a pour personnage principal Nova (Sam Alexander). "
 	},
 	{
 	"name":"Œil de Faucon",
-	"URL":"https://p1.storage.canalblog.com/15/66/1080503/93370898.jpg"
+	"URL":"https://p1.storage.canalblog.com/15/66/1080503/93370898.jpg",
+	"text":"Clinton « Clint » Barton, alias Œil-de-faucon (« Hawkeye » en version originale) est un super-héros évoluant dans à l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Don Heck, le personnage de fiction apparaît pour la première fois dans le comic book Tales of Suspense #57 en septembre 1964.
+Le personnage est principalement connu sous l'identité de l'archer et membre de l'équipe des Vengeurs nommé Œil-de-faucon (« Hawkeye » en VO), mais il a également utilisé d'autres noms de codes tels que Goliath (lorsqu'il a utilisé un sérum le faisant changer de taille, celui-ci ayant été conçu par Hank Pym) et Ronin (lorsqu'il a utilisé des armes traditionnelles japonaises comme des nunchakus, des shurikens et des sabres). "
 	},
 	{
 	"name":"Black Panther",
-	"URL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzT8sWqr7DCcd3uiMY_KtJOPO6TaS4bs920-3Yy81K1_WYdZd"
+	"URL":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAzT8sWqr7DCcd3uiMY_KtJOPO6TaS4bs920-3Yy81K1_WYdZd",
+	"text":"T'Challa, alias la Panthère noire (« Black Panther » en version originale) est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparait pour la première fois dans le comic book Fantastic Four #52 en juillet 1966.
+Premier super-héros noir dépeint dans les comics, la Panthère noire précède de quelques années des super-héros afro-américains comme le Faucon (1969), Luke Cage (1972), le Green Lantern John Stewart (1971) ou Black Lightning (1977).
+Le personnage est généralement représenté comme le roi et le protecteur du Wakanda, une nation africaine fictive. Il vit ses propres aventures dans les comics Jungle Action en 1972, avant d'obtenir sa série personnelle Black Panther en 1977.
+En France, T'Challa est initialement nommé Pantherman dans les publications d'Arédit/Artima avant que son pseudonyme soit durablement traduit la Panthère noire dans les périodiques des éditions Lug à partir de l'album Les Fantastiques no 3 sorti en 1974. "
 	},
 	{
 	"name":"Le professeur Xavier",
-	"URL":"https://marvelmultivers.files.wordpress.com/2010/04/professor_x_by_joejusko2.jpg"
+	"URL":"https://marvelmultivers.files.wordpress.com/2010/04/professor_x_by_joejusko2.jpg",
+	"text":"Charles Xavier, alias le professeur Xavier ou le professeur X (« Professor X » en VO), est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book Uncanny X-Men #1 en septembre 1963.
+Fondateur de l'Institut Xavier, une école pour jeunes mutants, Xavier est lui aussi un mutant (Homo superior), c'est-à-dire, dans l'univers Marvel, un être doté de gènes mutants qui lui permettent d'avoir un pouvoir surhumain.
+Dans le cas du professeur Xavier, son principal pouvoir est la télépathie : il est en effet le plus puissant télépathe de cet univers de fiction, ce qui en fait un personnage extrêmement puissant, bien que physiquement il soit paralysé aux deux jambes.
+Son idéal le pousse à croire que les mutants seront un jour acceptés dans la société et, en attendant, il leur faut apprendre à maîtriser leurs dons. Il est en cela opposé au mutant Magnéto, qui lui pense que la confrontation avec les humains normaux est inévitable et que la guerre est sur le point d'éclater entre les Homo sapiens et les Homo superior.
+Dans la saga cinématographique X-Men, Charles Xavier a été interprété par les acteurs Patrick Stewart et par James McAvoy. "
 	},
 	{
 	"name":"Psylocke",
-	"URL":"https://i.pinimg.com/originals/63/f4/7a/63f47a5da0724b7416febd6494c85ecd.jpg"
+	"URL":"https://i.pinimg.com/originals/63/f4/7a/63f47a5da0724b7416febd6494c85ecd.jpg",
+	"text":"Elisabeth « Betsy » Braddock, alias Psylocke, est une super-héroïne évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Chris Claremont et le dessinateur Herb Trimpe, le personnage de fiction apparaît pour la première fois dans le comic book Captain Britain #8 en décembre 1976, une bande dessinée créée par la filiale de Marvel, Marvel UK.
+À l'origine, Betsy Braddock est un personnage secondaire dans les aventures de son frère jumeau, Brian Braddock, alias Captain Britain, mais elle le remplace brièvement dans son rôle de protecteur de la Terre-616. Plus tard, elle devient la super-héroïne Psylocke.
+Associée à Captain Britain et aux X-Men, Psylocke est une mutante doté de pouvoirs psychokinésiques et entraînée au combat au corps à corps. Elle possédait, avant son échange de pouvoirs avec Phénix, des facultés télépathiques. "
 	},
 	{
 	"name":"Punisher",
-	"URL":"https://aa1a5178aef33568e9c4-a77ea51e8d8892c1eb8348eb6b3663f6.ssl.cf5.rackcdn.com/p/full/b4aa2a28-b3e1-4f60-8f09-893903660991.jpg"
+	"URL":"https://aa1a5178aef33568e9c4-a77ea51e8d8892c1eb8348eb6b3663f6.ssl.cf5.rackcdn.com/p/full/b4aa2a28-b3e1-4f60-8f09-893903660991.jpg",
+	"text":"Frank Castle, alias le Punisher (« The Punisher » en version originale ; initialement « le Punisseur » en version française)note 1, est un personnage de fiction évoluant dans l’univers Marvel de la maison d'édition Marvel Comics. Créé par Gerry Conway, Ross Andru et John Romita, Sr., le personnage apparait pour la première fois dans le comic book The Amazing Spider-Man #129 en février 1974.
+Le Punisher incarne l’esprit de vengeance et de justice personnelle. Le monde dans lequel il évolue est glauque et sans espoir. Cynique et impitoyable, il préfère toujours tuer ses adversaires plutôt que d’accepter leur reddition pour les livrer à la justice. Reconnaissable au crâne blanc qui orne sa poitrine, il est la terreur des criminels. Il fait partie de ces personnages noirs et psychologiquement perturbés — tels que Wolverine, Ghost Rider ou Daredevil — dont le succès dans les années 1980 correspond à une recrudescence de la violence dans les comics. "
 	},
 	{
 	"name":"Rocket Raccoon",
-	"URL":"https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/c/c2/Rocket_Raccoon_AIW_Profile.jpg/revision/latest/scale-to-width-down/310?cb=20180518212857"
+	"URL":"https://vignette.wikia.nocookie.net/marvelcinematicuniverse/images/c/c2/Rocket_Raccoon_AIW_Profile.jpg/revision/latest/scale-to-width-down/310?cb=20180518212857",
+	"text":"Rocket Raccoon est un super-héros extraterrestre appartenant à l'univers Marvel de la maison d'édition Marvel Comics. "
 	},
 	{
 	"name":"La Sorcière rouge",
-	"URL":"https://i.pinimg.com/originals/3e/ec/43/3eec43cef5216bda6530399bf51ceee7.jpg"
+	"URL":"https://i.pinimg.com/originals/3e/ec/43/3eec43cef5216bda6530399bf51ceee7.jpg",
+	"text":"Wanda Maximoff, alias la Sorcière rouge (« Scarlet Witch » en version originale), est une super-héroïne appartenant à l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book X-Men #4 en 1964.
+À la fois mutante et magicienne, la Sorcière rouge commence sa carrière en tant que super-vilaine membre de la Confrérie des mauvais mutants aux côtés de son père Magnéto et de son frère Vif-Argent. Par la suite, elle revient dans le droit chemin et commence une carrière d'héroïne, principalement en tant que membre des Vengeurs.
+Commençant sa carrière dans l'âge d'argent des comics, la Sorcière rouge fait partie depuis plus de 40 ans de l'univers Marvel. Elle est classée 97e des « 200 plus grands personnages de comic books de tous les temps » par le magazine Wizard. "
 	},
 	{
 	"name":"Spider-man",
-	"URL":"https://cdn.europosters.eu/image/1300/kuvatapetit/marvel-spiderman-10587-368x254-cm-premium-non-woven-wallpaper-130gsm-i55719.jpg"
+	"URL":"https://cdn.europosters.eu/image/1300/kuvatapetit/marvel-spiderman-10587-368x254-cm-premium-non-woven-wallpaper-130gsm-i55719.jpg",
+	"text":"Peter Parker, alias Spider-Man (souvent écrit « Spiderman » de façon erronée), est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Steve Ditko, le personnage de fiction apparaît pour la première fois dans le comic book Amazing Fantasy #15 en 1962.
+En France (souvent traduit par l'Homme Araignée ou simplement l'Araignée), le personnage apparaît pour la toute première fois en mai 1969, dans le no 4 du périodique Fantask, publié aux Éditions Lug. Il s'agit en fait de la traduction du premier numéro de The Amazing Spider-Man datant de 1963. Ses origines, parues un an plus tôt dans Amazing Fantasy #15, ne seront publiées en français qu'en 1980 dans un album d'Iron-Man édité chez Arédit/Artima, puis en 1981 chez Lug dans un numéro spécial de sa revue Strange.
+Lors de sa première apparition dans Amazing Fantasy, Spider-Man est l'identité que se choisit le jeune Peter Parker après avoir été mordu par une araignée radioactive et découvert qu'il avait à cette occasion développé des super-pouvoirs. Le succès de ce numéro permet à Spider-Man d'avoir dès 1963 sa propre série, The Amazing Spider-Man.
+Spider-Man est depuis lors l'un des personnages les plus populaires de l'univers des comics. Au fil des ans, d'autres périodiques lui seront consacrés, tel Spectacular Spider-Man et Peter Parker, the Spider-Man, mais The Amazing Spider-Man est toujours le magazine principal du héros.
+Peter Parker meurt dans le numéro 700 de The Amazing Spider-Man mais un nouveau Spider-Man reprend le flambeau lorsque l'esprit du Docteur Octopus occupe le corps de Parker. Cependant, une part de Peter demeure en vie et cohabite avec l'esprit d'Octopus dans son propre corps et le criminel laisse finalement l'âme de Peter récupérer son corps. "
 	},
 	{
 	"name":"Star-lord",
-	"URL":"http://www.comicsbeat.com/wp-content/uploads/2014/04/The_Legendary_Star-Lord_1_Cover_McNiven1.jpg"
+	"URL":"http://www.comicsbeat.com/wp-content/uploads/2014/04/The_Legendary_Star-Lord_1_Cover_McNiven1.jpg",
+	"text":"Peter Quill, alias Star-Lord, est un super-héros appartenant à l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Steve Englehart et le dessinateur Steve Gan (en), le personnage de fiction apparaît pour la première fois dans le comic book Marvel Preview #4 en janvier 1976. "
 	},
 	{
 	"name":"Le Surfeur d'argent",
-	"URL":"http://ekladata.com/diVvNQtozh3p_X0Fk9--bxarMEI.png"
+	"URL":"http://ekladata.com/diVvNQtozh3p_X0Fk9--bxarMEI.png",
+	"text":"Norrin Radd, alias le Surfer d’argent (« The Silver Surfer » en version originale) est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book Fantastic Four #48 en mars 1966. En France, il apparaît dans Fantask no 1 en février 1969.
+Le Surfer d’argent est un humanoïde à la peau métallique argentée qui peut voyager dans l'espace à l'aide de son engin semblable à une planche de surf. À l'origine, jeune astronome nommé Norrin Radd sur la planète Zenn-La, il sauve son monde natal du Dévoreur de mondes, Galactus, en le servant comme son héraut. En retour, Galactus l'investit d'une infime partie de son pouvoir cosmique. Norrin Radd acquiers alors une immense puissance, un nouveau corps et son surf argenté, avec lequel il peut voyager plus vite que la lumière. Maintenant connu sous l'identité du Surfer d’argent, il parcourt le cosmos à la recherche de planètes capables de sustenter Galactus.
+Quand l'un de ces voyages l’amène sur Terre, il rencontre les Quatre Fantastiques, une puissante équipe de super-héros qui l’aident à redécouvrir son humanité et sa noblesse d'esprit. Trahissant Galactus, le Surfer sauve la Terre, mais Galactus l'exile là comme punition.
+En 2011, le site IGN a classé le Surfer d’argent à la 41e place de leur liste des « 100 meilleurs héros de comics »4. Au cinéma, le personnage a été interprété par Doug Jones avec la voix de Laurence Fishburne dans le film Les Quatre Fantastiques et le Surfer d'argent (2007). "
 	},
 	{
 	"name":"Thor",
-	"URL":"https://vignette.wikia.nocookie.net/vsbattles/images/c/ca/Thor-AOU-Render.png/revision/latest/scale-to-width-down/380?cb=20151009123640"
+	"URL":"https://vignette.wikia.nocookie.net/vsbattles/images/c/ca/Thor-AOU-Render.png/revision/latest/scale-to-width-down/380?cb=20151009123640",
+	"text":"Thor est une divinité et un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par l'éditeur Stan Lee, le scénariste Larry Lieber et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book Journey into Mystery #83 d'août 1962. En France, sa première apparition a lieu dans Eclipso no 15 d'août 1971.
+Le personnage de Thor est basé sur son homologue de la mythologie nordique. L'asgardien est connu pour être l'un des membres fondateurs et membre récurrent de l'équipe des Vengeurs. Il a été le personnage titre de trois séries régulières ainsi que de séries limitées. Il apparaît dans de nombreux produits dérivés : séries d'animation et jeux vidéo. L'acteur australien Chris Hemsworth incarne le personnage dans plusieurs films de l'univers cinématographique Marvel. "
 	},
 	{
 	"name":"Tigra",
-	"URL":"https://vignette.wikia.nocookie.net/marvelcomicsfanon/images/e/ee/Tigra_NEW%21.jpg/revision/latest?cb=20131122215743"
+	"URL":"https://vignette.wikia.nocookie.net/marvelcomicsfanon/images/e/ee/Tigra_NEW%21.jpg/revision/latest?cb=20131122215743",
+	"text":"Tigra, de son vrai nom Greer Grant Nelson, est une super-héroïne appartenant à l'univers Marvel de la maison d'édition Marvel Comics. Créé par les scénaristes Linda Fite, Roy Thomas, la dessinatrice Marie Severin et l'encreur Wally Wood, le personnage de fiction de Greer Grant Nelson, alias la Chatte, apparaît pour la première fois dans le comic book The Cat #1 en 1972 (publié en France en janvier 1975 dans Vengeur n°12). La mini-série ne dure que quatre numéros avant d'être annulée. En 1974, le scénariste Tony Isabella et le dessinateur Don Perlin reprennent le personnage et en font la super-héroïne Tigra dans le comic book Giant-Size Creatures #1 (en France, dans Satan n°16, en avril 1980). Tigra est également le nom d'une mini-série de Marvel parue en 2002 et centrée sur le personnage.
+Greer Nelson fait son début de carrière de super-héroïne sous le nom de code de la Chatte. Puis, elle est transformée par le Peuple Chat et devient Tigra. Elle combat aux côtés de divers super-héros et devient un membre régulier des Vengeurs. De nombreux héros tombent sous le charme de la femme-chat. Tigra est instructrice durant le Projet Initiative et devient enseignante lorsque l'Académie des Vengeurs ouvre ses portes.
+La Chatte est une héroïne qui, à ses débuts, représente la libération de la femme aux États-Unis. Lorsqu'elle est transformée en Tigra, elle devient principalement connu pour son côté nymphomane. Après avoir été sévèrement battue par le vilain Hood et abusé par un skrull, le personnage remonte la pente en prenant des responsabilités en tant qu'enseignante et en entamant une relation sérieuse avec le vengeur Henry Pym. "
 	},
 	{
 	"name":"La Torche humaine",
-	"URL":"http://cdn1.momes.net/var/momes/storage/images/diaporamas/les-super-heros-de-marvel-et-dc-comics/la-torche-humaine/989604-4-fre-FR/La-Torche-Humaine_galerie_large.jpg"
+	"URL":"http://cdn1.momes.net/var/momes/storage/images/diaporamas/les-super-heros-de-marvel-et-dc-comics/la-torche-humaine/989604-4-fre-FR/La-Torche-Humaine_galerie_large.jpg",
+	"text":"Johnny Storm, alias la Torche humaine (« Human Torch » en version originale), est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book Fantastic Four #1 de novembre 1961 et, en France, dans Fantask #1.
+Johnny Storm est l'un des membres fondateurs des Quatre Fantastiques. Il a la même apparence et les mêmes pouvoirs qu'un autre personnage, également baptisé la Torche humaine (Human Torch), un super-héros androïde créé en 1939 et sporadiquement utilisé après-guerre par Marvel Comics. "
 	},
 	{
 	"name":"Tornade",
-	"URL":"https://vignette.wikia.nocookie.net/marvel/images/a/ad/Ororo_Munroe_%28Terre-10005%29.jpg/revision/latest/scale-to-width-down/240?cb=20130116222411&path-prefix=fr"
+	"URL":"https://vignette.wikia.nocookie.net/marvel/images/a/ad/Ororo_Munroe_%28Terre-10005%29.jpg/revision/latest/scale-to-width-down/240?cb=20130116222411&path-prefix=fr",
+	"text":"Ororo Munroe, alias Tornade (« Storm » en version originale), est une super-héroïne évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Len Wein et le dessinateur Dave Cockrum, le personnage de fiction apparaît pour la première fois dans le comic book Giant-Size X-Men #1 en mai 1975.
+Tornade fait partie de l'équipe des X-Men, une célèbre équipe de mutants où elle fait souvent office de leader, notamment en l'absence de Cyclope. "
 	},
 	{
 	"name":"Venom",
-	"URL":"https://vignette.wikia.nocookie.net/p__/images/9/9e/Edward_Brock_%28Earth-30847%29_and_Venom_%28Klyntar%29_%28Earth-30847%29_from_Marvel_vs._Capcom_Infinity_0001.png/revision/latest?cb=20180709050234&path-prefix=protagonist"
+	"URL":"https://vignette.wikia.nocookie.net/p__/images/9/9e/Edward_Brock_%28Earth-30847%29_and_Venom_%28Klyntar%29_%28Earth-30847%29_from_Marvel_vs._Capcom_Infinity_0001.png/revision/latest?cb=20180709050234&path-prefix=protagonist",
+	"text":"Venom est un personnage de fiction évoluant dans l'univers Marvel de la maison d'édition Marvel Comics, généralement en association avec le personnage de Spider-Man. Le personnage est un symbiote extraterrestre sensible avec une forme amorphe semblable à un liquide, qui survit en se liant avec un hôte, généralement humain.
+Il apparaît à l'origine comme un costume extraterrestre dénommé le Symbiote dans le comic book The Amazing Spider-Man #252 en mai 1984. Le symbiote alien apparaît ensuite dans Secret Wars #8 en décembre 1984. Sous l'identité d’Eddie Brock, il fait une première apparition complète en tant que Venom dans The Amazing Spider-Man #300 en mai 1988. Sous l'identité d'Angelo Fortunato, il apparaît dans Marvel Knights: Spider-Man 7, Venomous part 3 en décembre 2004.
+Venom reste l'un des personnages les plus populaires de la saga Spider-Man, tant par sa nature maléfique d'antagoniste du Tisseur que par son côté très controversé (du moins sous son apparence d'Eddie Brock). Il a atteint une popularité qui rivalise avec celle des personnages du Bouffon Vert et du Docteur Octopus, les deux autres ennemis principaux de Spider-Man. "
 	},
 	{
 	"name":"Vif-Argent",
-	"URL":"https://vignette.wikia.nocookie.net/marvelstudios/images/8/8c/52f22553c399f466811a166f12dff164--quicksilver-avengers-marvel-avengers.jpg/revision/latest?cb=20170817115442&path-prefix=fr"
+	"URL":"https://vignette.wikia.nocookie.net/marvelstudios/images/8/8c/52f22553c399f466811a166f12dff164--quicksilver-avengers-marvel-avengers.jpg/revision/latest?cb=20170817115442&path-prefix=fr",
+	"text":"Pietro Maximoff, alias Vif-Argent (« Quicksilver » en version originale), est un super-héros appartenant à l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste Stan Lee et le dessinateur Jack Kirby, le personnage de fiction apparaît pour la première fois dans le comic book X-Men #4 en mars 1964.
+Vif-Argent est un mutant, anciennement membre de la Confrérie des mauvais mutants, Facteur-X, les Inhumains, les Vengeurs et dernièrement un professeur à l'Académie des Vengeurs. "
 	},
 	{
 	"name":"Vision",
-	"URL":"http://www.marvel-cineverse.fr/medias/images/vision-avengers-infinity-war-poster.jpg"
+	"URL":"http://www.marvel-cineverse.fr/medias/images/vision-avengers-infinity-war-poster.jpg",
+	"text":"La Vision (The Vision) est un super-héros robotique appartenant à l’univers de Marvel Comics. La première version du personnage, créée par Joe Simon et Jack Kirby, date de l’âge d'or des comics et est apparue dans Marvel Mystery Comics #13 en novembre 1940. La version actuelle de La Vision est apparue dans Avengers #57 (octobre 1968), sous la plume de Roy Thomas et le crayon de John Buscema. "
 	},
 	{
 	"name":"War Machine",
-	"URL":"https://vignette.wikia.nocookie.net/avengers-assemble/images/3/32/Usa_avengers_chi_warmachine_r_cc65cad7.png/revision/latest?cb=20180322231208"
+	"URL":"https://vignette.wikia.nocookie.net/avengers-assemble/images/3/32/Usa_avengers_chi_warmachine_r_cc65cad7.png/revision/latest?cb=20180322231208",
+	"text":"James Rhodes, alias War Machine est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par le scénariste David Michelinie et le dessinateur Bob Layton, le personnage de fiction apparaît pour la première fois dans Iron Man #118 en 1979 sous l'identité de James Rupert Rhodes, alors pilote privé au service de Tony Stark.
+C'est dans Iron Man #291 en 1993 que James Rhodes adopte pour la première fois l'identité de War Machine. Il meurt de la main de Thanos dans le Free Comic Book Day 2016 : Civil War II.
+En 2012, War Machine est classé par le site IGN à la 31e place du classement « The Top 50 Avengers ». Le personnage est présent dans la série animée Iron Man (en), la série Iron Man: Armored Adventures, et le film d'animation The Invincible Iron Man (en). Au cinéma, il est interprété par Don Cheadle dans Iron Man 2, Iron Man 3, Avengers: Age of Ultron, Captain America: Civil War et Avengers: Infinity War. "
 	},
 	{
 	"name":"Wolverine",
-	"URL":"https://www.sideshow.com/product-asset/500555U/feature"
+	"URL":"https://www.sideshow.com/product-asset/500555U/feature",
+	"text":"Logan, alias Wolverine, est un super-héros évoluant dans l'univers Marvel de la maison d'édition Marvel Comics. Créé par l'éditeur en chef de Marvel Comics Roy Thomas, le scénariste Len Wein et le dessinateur John Romita, Sr. (Romita a conçu le personnage, bien qu'il ait été dessiné pour la première fois par Herb Trimpe), le personnage de fiction apparaît pour la première fois dans Incredible Hulk (vol. 1) #180 en octobre 1974.
+Son nom véritable est James Howlett, mais ayant oublié son passé après différents traumatismes, il se fait appeler Logan. Apparaissant sur la dernière page du magazine Incredible Hulk #180 où est annoncée son arrivée pour le numéro suivant, il est ensuite intégré à la série des nouveaux X-Men, dont il devient l'un des protagonistes, et où il gagne une importance croissante. Il est par la suite Membre des X-Men et des New Avengers.
+En France, des années 1970 aux années 1990, le personnage est rebaptisé Serval dans les épisodes publiés par les éditions Lug. Bien que le terme « glouton » (carnassier d'Amérique du Nord, également appelé carcajou) soit la traduction correcte de « wolverine », ce terme désigne également en français un individu gourmand ; le serval lui est donc préféré. En 1980, l'éditeur Arédit publie un épisode dans Gamma no 11 où le personnage fait sa première apparition, et traduit son nom par Le Glouton.
+Dans les années 1990, la popularité de Wolverine est telle qu'elle égale celle des super-héros les plus fameux de Marvel, comme Spider-Man. En France, Panini Comics, qui publie depuis 1997 les comics Marvel en version française, lui rend à cette époque son nom d'origine.
+Wolverine se démarque de la plupart des héros par sa violence et son caractère irascible. "
 	}
 	
 	]
